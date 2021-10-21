@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KDBismael
 - 👀 I’m interested in Front End 
 - 🌱 I’m currently learning node js Back End
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on project related to Frond End
 - 📫 ismaelkondombo1@gmail.com
 
 <!---
