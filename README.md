@@ -1,4 +1,4 @@
-Mobile and web developer💻 👨‍💻
+Mobile and web developer 💻
 
 
 
